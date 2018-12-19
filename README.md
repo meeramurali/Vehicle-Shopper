@@ -1,6 +1,6 @@
 # Vehicle-Shopper
 
-This allows the user to build a customized vehicle by
+This application allows the user to build a customized vehicle by
 selecting from a list of available options for each feature such as size, exterior color,
 interior color, transmission, and cylinders. The application then searches and displays
 matches found in all car lots data base.
