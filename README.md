@@ -9,7 +9,9 @@ Supported operations include selecting an option for a feature, displaying all s
 and removing selection (resetting a feature)
 
 External data files are used to load available options for each feature, and data for vehicles
-in each car lot. Inheritance and dynamic binding used to create different features and available options for each. 
+in each car lot. Inheritance and dynamic binding used to create different features and available options for each.
+
+Data structure: BST of BSTs (Data base is a BST of ‘Car_lot’s; Each car lot is a BST of ‘Vehicle’s)
 
 ## UML Class Diagram
 
