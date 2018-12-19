@@ -9,7 +9,9 @@ Supported operations include selecting an option for a feature, displaying all s
 and removing selection (resetting a feature)
 
 External data files are used to load available options for each feature, and data for vehicles
-in each car lot.
+in each car lot. Inheritance and dynamic binding used to create different features and available options for each. 
+
+## UML Class Diagram
 
 ![UML diagram](/resources/UML.png)
 ![UML diagram](/resources/UML2.png)
