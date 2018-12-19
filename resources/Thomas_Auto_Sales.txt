@@ -1,0 +1,8 @@
+2012 Audi A6 Premium Plus,Exterior_Color:Black,Interior_Color:Black,Cylinders:4 cylinders,Transmission:Automatic,Size:Mid-size
+2014 Hyundai Accent GLS,Exterior_Color:Blue,Interior_Color:Gray,Cylinders:4 cylinders,Transmission:Automatic,Size:Mid-size
+2014 Infiniti QX60 Hybrid,Exterior_Color:Blue,Interior_Color:White,Cylinders:4 cylinders,Transmission:Automatic,Size:Mid-size
+2009 Nissan Versa S,Exterior_Color:Blue,Interior_Color:Black,Cylinders:2 cylinders,Transmission:Automatic,Size:Mid-size
+2016 BMW X3 SDrive28i,Exterior_Color:Gold,Interior_Color:Black,Cylinders:4 cylinders,Transmission:Manual,Size:Compact
+2014 Toyota Highlander LE Plus,Exterior_Color:Gold,Interior_Color:Tan,Cylinders:6 cylinders,Transmission:Automatic,Size:Full-size
+2014 Jeep Grand Cherokee Laredo,Exterior_Color:Gold,Interior_Color:White,Cylinders:6 cylinders,Transmission:Automatic,Size:Full-size
+2013 Honda Fit Sport,Exterior_Color:Red,Interior_Color:Black,Cylinders:4 cylinders,Transmission:Automatic,Size:Compact
